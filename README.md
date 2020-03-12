@@ -1,5 +1,5 @@
 # Brux
-Brux is the landing page for dental products under a brand of the same name. The site uses timeline effects and fixed header changes.
+Brux is the landing page for dental products under a brand of the same name. The site uses fixed header changes, GreenSock (GSAP) timeline effects, scroll effects, and features a logo that follows the user's mouse movements around the page.
 
 ## URL
 
